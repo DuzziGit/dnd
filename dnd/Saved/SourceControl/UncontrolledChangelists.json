@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Lowli/Documents/GitHub/dnd/dnd/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/RJ/8T0ID1DJVC7UEH7X34NAH6.uasset",
+				"C:/Users/Lowli/Documents/GitHub/dnd/dnd/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/WE/O7YXE6SIAP5PF0IMIZ60OV.uasset",
+				"C:/Users/Lowli/Documents/GitHub/dnd/dnd/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/3X/Z4W6TXKY86H8GDTQACYTPB.uasset",
+				"C:/Users/Lowli/Documents/GitHub/dnd/dnd/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/YP/UN053EJ1E9FDZGZCUF3AJI.uasset",
+				"C:/Users/Lowli/Documents/GitHub/dnd/dnd/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/Y3/95JZA4AIG35V2FVFOXXAJ4.uasset",
+				"C:/Users/Lowli/Documents/GitHub/dnd/dnd/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/KU/C5KWBNVA3Q9KAO2T3LZTJM.uasset",
+				"C:/Users/Lowli/Documents/GitHub/dnd/dnd/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LU/SPML3FMX7ZP5KGDEIJ84ET.uasset"
+			]
+		}
+	]
+}
